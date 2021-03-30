@@ -1,16 +1,16 @@
 # TicTacToeGlow
 
-TicTacToe is a a game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
+TicTacToe is a a game in which two players alternately put 🤖 and 👾 in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three 🤖 or three 👾 before the opponent does. PlayGame [https://pages.git.generalassemb.ly/bananalasmari/TicTacToeGlow/]
 
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 4. [Screenshots](#Screenshots)
-5. [User Stories](#UserStories)
+5. [User Stories](#User-Stories)
 6. [Planning/Development](#Planning/Development)
-7. [Howtobecomeawinner](#Howtobecomeawinner)
-8. [UnsolvedProblems](#UnsolvedProblems)
-9. [favoritefunctions](#favoritefunctions)
+7. [How to become awinner](#How-to-be-comea-winner)
+8. [Unsolved Problems](#Unsolved-Problems)
+9. [favorite functions](#favorite-functions)
 10. [Installation](#installation)
 11. [FAQs](#faqs)
 
@@ -60,7 +60,7 @@ Main Page:
   * create mainpage for game Image
 * work on the Design of index.html as the main page of the game.
 * work on main.js file to build the logic of the game.
-work on style.css file to build the styling of the game.
+* work on style.css file to build the styling of the game.
 
 
 
@@ -83,8 +83,8 @@ Nothing
 * First, Player 1 has to make the first move
 * Both players play the game untill winner got scored.
 
-### favorite functions:
-`function playgame() {
+### Favorite Functions:
+`(function playgame() {
     // restart the game
     Player1Score = 0;
     Player2Score = 0;
@@ -101,7 +101,7 @@ Nothing
 
     $(".container .playerone h5").css("display", "none");
     $(".container .playertwo h5").css("display", "none");
-};`
+};)`
 
 
 
