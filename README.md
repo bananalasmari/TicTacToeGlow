@@ -1,6 +1,6 @@
 # TicTacToeGlow
 
-TicTacToe is a a game in which two players alternately put 🤖 and 👾 in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three 🤖 or three 👾 before the opponent does.
+TicTacToe is a a game in which two players alternately put 🤖 and 👾 in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three 🤖 or three 👾 before the opponent does. PlayGame [https://pages.git.generalassemb.ly/bananalasmari/TicTacToeGlow/]
 
 ## Table of Contents
 1. [General Info](#general-info)
