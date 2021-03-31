@@ -16,17 +16,18 @@ TicTacToe is a a game in which two players alternately put 🤖 and 👾 in comp
 
 
 ## General Info
-***
 
 Tic Tac Toe GLOW edition is a game submaiited for the Project #1 - #SEI-15-KSA
 
 
 ### Screenshot
-***
+
 Wireframe:
+***
 ![Image text](/Imgs/TicTacToeGLOW_Protoype.png)
 
 Main Page:
+***
 ![Image text](/Imgs/mainpage.png)
 
 ### User Stories: 
