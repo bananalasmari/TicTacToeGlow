@@ -84,7 +84,8 @@ Nothing
 * Both players play the game untill winner got scored.
 
 ### Favorite Functions:
-`(function playgame() {
+```
+(function playgame() {
     // restart the game
     Player1Score = 0;
     Player2Score = 0;
@@ -101,7 +102,9 @@ Nothing
 
     $(".container .playerone h5").css("display", "none");
     $(".container .playertwo h5").css("display", "none");
-};)`
+};)
+
+```
 
 
 
